@@ -41,14 +41,14 @@
 
 I'm an Informatics student at [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) and a software developer passionate about building end-to-end digital solutions — from UI/UX design and modern web frontends to scalable backends and AI/ML integrations.
 
-- 🎓 Studying **Informatics Engineering** at [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
-- 🤖 Former **AI Engineer Apprentice** at [Dicoding x IBM SkillsBuild](https://www.dicoding.com/) — trained Machine Learning & Deep Learning models with TensorFlow & Scikit-Learn
-- 🧾 Created [Strukify](https://github.com/aldypermana20) — smart expense tracking web app with automated receipt extraction using Computer Vision (MobileNetV2) & Google Gemini API
-- 📷 Built [Yukabsen](https://github.com/aldypermana20) — real-time facial recognition & QR code attendance system powered by DeepFace (Facenet) and OpenCV
-- 🥬 Developed [VeggieVision](https://github.com/aldypermana20) — vegetable identification platform powered by deep learning transfer learning (MobileNetV2)
-- 💰 Created [FinTrack Pro](https://pencatat-keuangan-fintrack.vercel.app/) — interactive financial tracking web app built with Laravel & Filament admin panel
-- 🛒 Built [Ruble-Retails](https://github.com/aldypermana20/Ruble-Retails) & [Decentralized POS App](https://github.com/dimaswae/Decentralized_POS_App) — Point-of-Sale applications with inventory management & sales analytics
-- 🎨 UI/UX & Graphic Designer with experience crafting responsive web & mobile prototypes in [Figma](https://www.figma.com/) and Canva
+- Studying **Informatics Engineering** at [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+- Former **AI Engineer Apprentice** at [Dicoding x IBM SkillsBuild](https://www.dicoding.com/) — trained Machine Learning & Deep Learning models with TensorFlow & Scikit-Learn
+- Created [Strukify](https://github.com/aldypermana20) — smart expense tracking web app with automated receipt extraction using Computer Vision (MobileNetV2) & Google Gemini API
+- Built [Yukabsen](https://github.com/aldypermana20) — real-time facial recognition & QR code attendance system powered by DeepFace (Facenet) and OpenCV
+- Developed [VeggieVision](https://github.com/aldypermana20) — vegetable identification platform powered by deep learning transfer learning (MobileNetV2)
+- Created [FinTrack Pro](https://pencatat-keuangan-fintrack.vercel.app/) — interactive financial tracking web app built with Laravel & Filament admin panel
+- Built [Ruble-Retails](https://github.com/aldypermana20/Ruble-Retails) & [Decentralized POS App](https://github.com/dimaswae/Decentralized_POS_App) — Point-of-Sale applications with inventory management & sales analytics
+- UI/UX & Graphic Designer with experience crafting responsive web & mobile prototypes in [Figma](https://www.figma.com/) and Canva
 
 See more at [portofolio-aldy.vercel.app](https://portofolio-aldy.vercel.app) or explore my [GitHub Repositories](https://github.com/aldypermana20).
 
